@@ -1,2 +1,2 @@
 # LR_LogR_Projects
-R studio Projects of course FMSN30 - Linear and Logistic Regression, Lund University
+R studio Linear and Logistic Regression Projects written by Wan Kuan Teh & Wanru Cheng 2024
